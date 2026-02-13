@@ -62,7 +62,7 @@ noBtn.addEventListener("mouseover", () => {
 yesBtn.addEventListener("click", () => {
     title.textContent = "I Like You So Much Kassandra";
 
-    catImg.src = "cat_dance.gif";
+    catImg.src = "bunny-love.gif";
 
     document.querySelector(".letter-window").classList.add("final");
 
